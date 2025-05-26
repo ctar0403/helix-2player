@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Helix Jump Multiplayer</title>
+  <style>
+    body { margin: 0; overflow: hidden; display: flex; }
+    canvas { width: 50%; height: 100vh; display: block; }
+    #waiting { position: absolute; top: 20px; left: 50%; transform: translateX(-50%); background: #fff; padding: 10px; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <div id="waiting">Connecting...</div>
+  <canvas id="left"></canvas>
+  <canvas id="right"></canvas>
+  <script type="module" src="main.js"></script>
+</body>
+</html>
