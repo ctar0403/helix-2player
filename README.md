@@ -29,4 +29,7 @@ Each player will control their own environment (left side), and see the opponent
 - Scene contains platforms and ball (basic Helix Jump style).
 - All logic lives in `main.js` and `game.js`.
 
+![helix-jump](https://github.com/user-attachments/assets/569da05c-e1ba-470a-bf5e-70d733cdde27)
+
+
 Enjoy!
